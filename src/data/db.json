@@ -1,0 +1,40 @@
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "Cheesecake3",
+      "precioPlatillo": "210",
+      "categoria": "postre",
+      "id": 1
+    },
+    {
+      "nombrePlatillo": "Rib Eye 450g",
+      "precioPlatillo": "300",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Coca Cola",
+      "precioPlatillo": "5",
+      "categoria": "bebida",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Ensalada César",
+      "precioPlatillo": "16.50",
+      "categoria": "ensalada",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Sandwitch Medianoche",
+      "precioPlatillo": "5.65",
+      "categoria": "cortes",
+      "id": 5
+    },
+    {
+      "nombrePlatillo": "Batido de chocolate",
+      "precioPlatillo": "3.25",
+      "categoria": "bebida",
+      "id": 6
+    }
+  ]
+}
